@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-facade-pattern-example",
+  "version": "1.0.0",
+  "description": "Ejemplo de implementación del Patrón Facade en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no hay pruebas definidas\" && exit 1"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
