@@ -1,6 +1,5 @@
 # Node.js Facade Pattern Example
 
-![Node.js Version](https://img.shields.io/node/v/14)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is an example implementation of the Facade Pattern in a Node.js application. The Facade Pattern is used to provide a unified and simplified interface for interacting with multiple internal submodules of the application.
